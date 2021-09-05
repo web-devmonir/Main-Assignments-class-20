@@ -1,0 +1,30 @@
+ /* ================== header_section ===================== */
+ .header_section {
+    background-color: #e3f2fd;
+}
+
+.header_section .header_logo {
+    width: 66px;
+}
+
+.header_section .header_logo img {
+    width: 100%;
+
+}
+
+/* ================== carousel_section=====================  */
+.carousel_section .carousel_img {
+    height: 660px;
+}
+
+/* ================== footer_section ===================== */
+.footer_section {
+    background-color: #17a2b8;
+    font-size: 19PX;
+    color: white;
+}
+
+.footer_section p {
+    margin: 0;
+    padding: 20px;
+}
